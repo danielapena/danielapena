@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with .NET Core, TypeScript, React, Node.
-- 🤓 I'm learning Solidity.
+- 🔭 I’m currently working with TypeScript, Node, Solidity, .NET Core.
 - 📫 How to reach me: danielan.pena@gmail.com.
 - 😄 Pronouns: She/Her.
