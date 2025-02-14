@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with TypeScript, Node, Solidity, C#.
+- 🔭 Tech stack: TypeScript, React, Solidity, C#, Node.js, NestJS, .NET.
 - 📫 How to reach me: danielan.pena@gmail.com.
 - 😄 Pronouns: She/Her.
